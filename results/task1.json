@@ -1,0 +1,10 @@
+{
+  "method": "Standard Pandas",
+  "file_gb": 5.31,
+  "system_ram_gb": 7.8,
+  "outcome": "KILLED_BY_GUARD",
+  "detail": "System RAM reached 90.4% - process killed to protect the computer.",
+  "peak_process_mb": 373.1,
+  "peak_system_percent": 90.4,
+  "seconds": 3.5
+}
