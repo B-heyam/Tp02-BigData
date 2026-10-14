@@ -7,3 +7,4 @@ Module: Big Data Analytics - Master 2 IA & Data Science, University of Eloued
 - **Code:** `task1_oom.py`, `task2_chunking.py`, `task3_dask.py`, `benchmark.py`
 
 The dataset (`train.csv`, 5.31 GB) is not in this repository.
+https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data?select=sample_submission.csv
